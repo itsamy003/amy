@@ -1,0 +1,3 @@
+var s=document.getElementById('bg-color');
+
+s.style.backgroundColor="#f3f3f3";
